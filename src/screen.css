@@ -3,4 +3,20 @@
 
 .container, .content {
 width: 100%;
+ 
+}
+.content{
+    display: inline-block;
+     
+}
+.section{
+    display: inline-block;
+    vertical-align: top;
+    width: 49%;
+    
+}
+ 
+h1{
+     text-align: center;
+    
 }
